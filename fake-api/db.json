@@ -1,24 +1,19 @@
 {
   "todos": [
     {
-      "id": 1,
-      "text": "Lavar as roupas",
-      "done": true
-    },
-    {
-      "id": 2,
-      "text": "Varrer a casa",
-      "done": false
-    },
-    {
-      "id": 3,
       "text": "Lavar o carro",
-      "done": true
+      "done": false,
+      "id": 2
     },
     {
-      "id": 4,
-      "text": "Academia",
-      "done": false
+      "text": "Fazer exercício",
+      "done": false,
+      "id": 3
+    },
+    {
+      "text": "Andar de bike",
+      "done": false,
+      "id": 4
     }
   ]
 }
